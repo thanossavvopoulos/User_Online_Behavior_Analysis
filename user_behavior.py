@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 
-# ------------------- Task 1 ----------------------------
+# ------------------- Task 1 -----------------------------
 
 # Βασισμένο στα PDF 4 & 6 (σελ. 32 "Load Dataset & Clean")
 def load_and_clean_data(path):
